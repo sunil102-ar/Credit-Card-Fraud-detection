@@ -9,3 +9,10 @@ Since the data for credit card fraud is not available in real form(due to confid
 In this project I build machine learning models to identify fraud in European credit card transactions. I also make several data visualizations to reveal patterns and structure in the data.
 
 The dataset, hosted on Kaggle, includes credit card transactions made in September 2013 by European cardholders. The data contains 284,807 transactions that occurred over a two-day period, of which 492 (0.17%) are fraudulent. Each transaction has 30 features, all of which are numerical. The features V1, V2, ..., V28 are the result of a PCA transformation. To protect confidentiality, background information on these features is not available. The Time feature contains the time elapsed since the first transaction, and the Amount feature contains the transaction amount. The response variable, Class, is 1 in the case of fraud, and 0 otherwise.
+
+Web App Production
+1. Procfile - Contains the type of app.
+2. Requirements - Libraries needed to run the app.
+3. Templates - Files required for rendering purpose
+4. Static - CSS styles
+5. App - Main file which will run our Web App.
