@@ -16,3 +16,11 @@ Web App Production
 3. Templates - Files required for rendering purpose
 4. Static - CSS styles
 5. App - Main file which will run our Web App.
+
+![image](https://user-images.githubusercontent.com/69753319/117547004-e02c4c00-b04a-11eb-96d4-36b054766a93.png)
+
+![image](https://user-images.githubusercontent.com/69753319/117547019-f4704900-b04a-11eb-95fa-8612937b00de.png)
+
+![image](https://user-images.githubusercontent.com/69753319/117547031-11a51780-b04b-11eb-86de-426e79d2f675.png)
+
+![image](https://user-images.githubusercontent.com/69753319/117547049-271a4180-b04b-11eb-977f-6c7921f7df16.png)
